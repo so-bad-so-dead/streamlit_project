@@ -3,3 +3,4 @@ pandas
 streamlit
 httpx
 altair==4.2.2
+python-3.11.5
