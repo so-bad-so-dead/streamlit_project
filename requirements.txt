@@ -2,3 +2,4 @@ plotly
 pandas
 streamlit
 httpx
+altair==4.2.2
